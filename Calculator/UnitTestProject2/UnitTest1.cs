@@ -39,6 +39,15 @@ namespace UnitTestProject2
             double res = m.Mul(a, b);
             Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
         }
-
+        [TestMethod]
+        public void TestDiv()
+        {
+            Calculator_ m = new Calculator_();
+            double a = 7183.12;
+            double b = 653.22;
+            double c = 10.996479;
+            double res = m.Div(a, b);
+            Assert.AreEqual(res.ToString("0.000000"), c.ToString("0.000000"));
+        }
     }
 }
