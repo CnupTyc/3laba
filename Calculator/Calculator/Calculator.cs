@@ -44,5 +44,10 @@ namespace Calculator
             double c = Math.Sin(a);
             return c;
         }
+        public double Cos(double a)
+        {
+            double c = Math.Cos(a);
+            return c;
+        }
     }
 }
