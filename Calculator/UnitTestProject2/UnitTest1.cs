@@ -18,5 +18,16 @@ namespace UnitTestProject2
             Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
         }
 
+        [TestMethod]
+        public void TestSub()
+        {
+            Calculator_ m = new Calculator_();
+            double a = 11.777;
+            double b = 6.111;
+            double c = 5.666;
+            double res = m.Sub(a, b);
+            Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
+        }
+
     }
 }
