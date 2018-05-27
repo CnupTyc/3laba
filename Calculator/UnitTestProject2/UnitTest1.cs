@@ -10,7 +10,7 @@ namespace UnitTestProject2
         [TestMethod]
         public void TestSum()
         {
-            Calculator m = new Calculator();
+            Calculator_ m = new Calculator_();
         }
 
     }
