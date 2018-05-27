@@ -59,5 +59,14 @@ namespace UnitTestProject2
             double res = m.Stepen(a, b);
             Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
         }
+        public void TestSqrt()
+        {
+            Calculator_ m = new Calculator_();
+            double a = 144;
+            double b = 2;
+            double c = 12;
+            double res = m.Sqrt(a, b);
+            Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
+        }
     }
 }
