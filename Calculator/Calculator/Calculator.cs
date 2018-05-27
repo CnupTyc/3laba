@@ -13,5 +13,11 @@ namespace Calculator
             double c = a + b;
             return c;
         }
+
+        public double Sub(double a, double b)
+        {
+            double c = a - b;
+            return c;
+        }
     }
 }
