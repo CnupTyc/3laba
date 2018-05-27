@@ -1,0 +1,7 @@
+D:\Влад\Учёба\АРХИВ\8 семестр\Верификация\3laba\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Влад\Учёба\АРХИВ\8 семестр\Верификация\3laba\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Влад\Учёба\АРХИВ\8 семестр\Верификация\3laba\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Влад\Учёба\АРХИВ\8 семестр\Верификация\3laba\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Влад\Учёба\АРХИВ\8 семестр\Верификация\3laba\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Влад\Учёба\АРХИВ\8 семестр\Верификация\3laba\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Влад\Учёба\АРХИВ\8 семестр\Верификация\3laba\Calculator\Calculator\obj\Debug\Calculator.pdb
