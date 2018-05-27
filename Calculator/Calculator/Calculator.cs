@@ -29,5 +29,10 @@ namespace Calculator
             double c = a / b;
             return c;
         }
+        public double Stepen(double a, double b)
+        {
+            double c = Math.Pow(a, b);
+            return c;
+        }
     }
 }
