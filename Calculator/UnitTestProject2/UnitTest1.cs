@@ -77,5 +77,14 @@ namespace UnitTestProject2
             double res = m.Sin(a);
             Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
         }
+        [TestMethod]
+        public void TestCos()
+        {
+            Calculator_ m = new Calculator_();
+            double a = 0.95;
+            double c = 0.582;
+            double res = m.Cos(a);
+            Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
+        }
     }
 }
