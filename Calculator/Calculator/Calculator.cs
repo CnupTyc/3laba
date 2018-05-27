@@ -34,5 +34,10 @@ namespace Calculator
             double c = Math.Pow(a, b);
             return c;
         }
+        public double Sqrt(double a, double b)
+        {
+            double c = Math.Pow(a, 1 / b);
+            return c;
+        }
     }
 }
