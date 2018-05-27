@@ -39,5 +39,10 @@ namespace Calculator
             double c = Math.Pow(a, 1 / b);
             return c;
         }
+        public double Sin(double a)
+        {
+            double c = Math.Sin(a);
+            return c;
+        }
     }
 }
