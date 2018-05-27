@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Calculator;
 
 namespace UnitTestProject2
 {
@@ -7,8 +8,10 @@ namespace UnitTestProject2
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestSum()
         {
+            Calculator m = new Calculator();
         }
+
     }
 }

@@ -1,0 +1,2 @@
+D:\Влад\Учёба\АРХИВ\8 семестр\Верификация\3laba\Calculator\.vs\Calculator\lut\0\i\UnitTestProject2\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\Влад\Учёба\АРХИВ\8 семестр\Верификация\3laba\Calculator\.vs\Calculator\lut\0\i\UnitTestProject2\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
