@@ -49,5 +49,15 @@ namespace UnitTestProject2
             double res = m.Div(a, b);
             Assert.AreEqual(res.ToString("0.000000"), c.ToString("0.000000"));
         }
+        [TestMethod]
+        public void TestStepen()
+        {
+            Calculator_ m = new Calculator_();
+            double a = 71.1;
+            double b = 3;
+            double c = 359425.431;
+            double res = m.Stepen(a, b);
+            Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
+        }
     }
 }
