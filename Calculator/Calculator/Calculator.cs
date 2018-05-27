@@ -8,5 +8,10 @@ namespace Calculator
 {
     public class Calculator_
     {
+        public double Sum(double a, double b)
+        {
+            double c = a + b;
+            return c;
+        }
     }
 }
