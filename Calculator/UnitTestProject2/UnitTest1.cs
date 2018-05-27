@@ -29,5 +29,16 @@ namespace UnitTestProject2
             Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
         }
 
+        [TestMethod]
+        public void TestMul()
+        {
+            Calculator_ m = new Calculator_();
+            double a = 11;
+            double b = 653.1;
+            double c = 7184.1;
+            double res = m.Mul(a, b);
+            Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
+        }
+
     }
 }
