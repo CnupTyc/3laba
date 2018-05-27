@@ -68,5 +68,14 @@ namespace UnitTestProject2
             double res = m.Sqrt(a, b);
             Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
         }
+        [TestMethod]
+        public void TestSin()
+        {
+            Calculator_ m = new Calculator_();
+            double a = 78;
+            double c = 0.514;
+            double res = m.Sin(a);
+            Assert.AreEqual(res.ToString("0.000"), c.ToString("0.000"));
+        }
     }
 }
